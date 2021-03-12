@@ -1,0 +1,17 @@
+.main {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  color: white;
+}
+.selected {
+background-color: darkred;
+width: 100px;
+height: 100px;
+float: left;
+box-sizing: border-box;
+border: 1px #fff solid;
+text-align: center;
+font-size: 4vh;
+line-height: 100px;
+}
